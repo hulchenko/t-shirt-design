@@ -41,8 +41,8 @@
 
 .sub-container {
   padding: 10rem;
-  margin: 10rem 1rem;
   border: 1px solid black;
+  height: 250px;
 }
 
 @keyframes App-logo-spin {

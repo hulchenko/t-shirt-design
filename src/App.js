@@ -165,13 +165,13 @@ function App() {
               backgroundSize: 'cover',
               backgroundPosition: 'center',
               backgroundRepeat: 'no-repeat',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
             }}
           >
             <p
               style={{
-                position: 'absolute',
-                top: '400px',
-                left: '300px',
                 minWidth: '100px',
                 fontWeight: 'bold',
                 textShadow:
@@ -187,11 +187,8 @@ function App() {
               src={logoImage}
               alt=""
               style={{
-                position: 'absolute',
                 width: '50px',
                 height: '50px',
-                top: '460px',
-                left: '325px',
                 display: logoImage !== null ? 'block' : 'none',
               }}
             />

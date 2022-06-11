@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/t-shirt-design/static/css/main.894f5c2a.css",
-    "main.js": "/t-shirt-design/static/js/main.e86b9f92.js",
-    "static/media/black-sweater.jpg": "/t-shirt-design/static/media/black-sweater.b6f5ee962afaf1525a8e.jpg",
-    "static/media/yellow-sweater.jpg": "/t-shirt-design/static/media/yellow-sweater.f1a78a6a7d36aa353bd9.jpg",
-    "static/media/red-shirt.jpg": "/t-shirt-design/static/media/red-shirt.0559d6b3321af871050f.jpg",
-    "static/media/pink-sweater.jpg": "/t-shirt-design/static/media/pink-sweater.c2d98e427d7a266a76e5.jpg",
-    "static/media/green-shirt.jpg": "/t-shirt-design/static/media/green-shirt.45bc68f8ef8842c0077f.jpg",
-    "static/media/white-sweater.jpg": "/t-shirt-design/static/media/white-sweater.4dcace6f6defaa057e51.jpg",
-    "static/media/black-shirt.jpg": "/t-shirt-design/static/media/black-shirt.688786043c0942c112bc.jpg",
-    "index.html": "/t-shirt-design/index.html",
-    "main.894f5c2a.css.map": "/t-shirt-design/static/css/main.894f5c2a.css.map",
-    "main.e86b9f92.js.map": "/t-shirt-design/static/js/main.e86b9f92.js.map"
+    "main.css": "/static/css/main.894f5c2a.css",
+    "main.js": "/static/js/main.315cf331.js",
+    "static/media/black-sweater.jpg": "/static/media/black-sweater.b6f5ee962afaf1525a8e.jpg",
+    "static/media/yellow-sweater.jpg": "/static/media/yellow-sweater.f1a78a6a7d36aa353bd9.jpg",
+    "static/media/red-shirt.jpg": "/static/media/red-shirt.0559d6b3321af871050f.jpg",
+    "static/media/pink-sweater.jpg": "/static/media/pink-sweater.c2d98e427d7a266a76e5.jpg",
+    "static/media/green-shirt.jpg": "/static/media/green-shirt.45bc68f8ef8842c0077f.jpg",
+    "static/media/white-sweater.jpg": "/static/media/white-sweater.4dcace6f6defaa057e51.jpg",
+    "static/media/black-shirt.jpg": "/static/media/black-shirt.688786043c0942c112bc.jpg",
+    "index.html": "/index.html",
+    "main.894f5c2a.css.map": "/static/css/main.894f5c2a.css.map",
+    "main.315cf331.js.map": "/static/js/main.315cf331.js.map"
   },
   "entrypoints": [
     "static/css/main.894f5c2a.css",
-    "static/js/main.e86b9f92.js"
+    "static/js/main.315cf331.js"
   ]
 }
